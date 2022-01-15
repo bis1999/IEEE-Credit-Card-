@@ -44,8 +44,9 @@ The objective of this Kaggle Competitions is predicting the probability that an 
 +---------------+--------------------------+--------------+
 ```
 At the end I created features after seeing model's feature importance
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![feature importamce](https://user-images.githubusercontent.com/40723953/149634769-7c11aafe-dcfc-4c8f-8896-74e08ecd5b3d.png)
 
+At the end I was able to achive a Kaggle score of 93.24 with a Xgboot+SMOOTE+some features 
 
 
 
